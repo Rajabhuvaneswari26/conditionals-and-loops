@@ -1,0 +1,4 @@
+auist@TF075:~/Documents/r2024115031$ gcc -o fact fact.c
+auist@TF075:~/Documents/r2024115031$ ./fact
+Enter any number:5
+Factorial: 120
