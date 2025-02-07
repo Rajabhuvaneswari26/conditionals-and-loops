@@ -1,0 +1,8 @@
+auist@TF075:~/Documents/r2024115031$ gcc -o day day.c
+auist@TF075:~/Documents/r2024115031$ ./day
+Enter the number:7
+Saturdayauist@TF075:~/Documents/r2024115031$ gcc -o day day.c
+auist@TF075:~/Documents/r2024115031$ ./day
+Enter the number:9
+Enter valid number.auist@TF075:~/Documents/r2024115031$ 
+
