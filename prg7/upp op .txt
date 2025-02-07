@@ -1,0 +1,4 @@
+auist@TF075:~/Documents/r2024115031$ gcc -o upp upp.c
+auist@TF075:~/Documents/r2024115031$ ./upp
+Enter a character:5
+5 is a number 
