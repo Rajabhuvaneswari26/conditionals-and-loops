@@ -1,0 +1,4 @@
+auist@TF075:~/Documents/r2024115031$ gcc -o sl sl.c
+auist@TF075:~/Documents/r2024115031$ ./sl
+Enter a number:897
+Sum of digits is 24 
