@@ -1,0 +1,4 @@
+auist@TF075:~/Documents/r2024115031$ gcc -o vote vote.c
+auist@TF075:~/Documents/r2024115031$ ./vote
+Enter person's age:25
+The person is eligible to vote.
