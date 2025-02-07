@@ -1,0 +1,4 @@
+auist@TF075:~/Documents/r2024115031$ gcc -o fib fib.c
+auist@TF075:~/Documents/r2024115031$ ./fib
+Enter a number:13
+fibonacci series is:011235813
