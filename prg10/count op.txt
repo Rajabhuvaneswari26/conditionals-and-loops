@@ -1,0 +1,5 @@
+auist@TF075:~/Documents/r2024115031$ gcc -o count count.c
+auist@TF075:~/Documents/r2024115031$ ./count
+Enter a number:456
+Reverse of the number is 654 
+
