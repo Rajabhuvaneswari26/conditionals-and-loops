@@ -1,2 +1,0 @@
-Enter a number: 2345
-The reverse of digit is 5432
